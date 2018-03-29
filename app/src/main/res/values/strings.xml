@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Connect</string>
+    <string name="terms"><![CDATA[Terms & conditions]]></string>
+    <string name="please_enter_email">Please Enter Email</string>
+    <string name="please_enter_name">Please Enter Name</string>
+    <string name="please_enter_password">Please Enter Password</string>
+    <string name="no_internet_connection">No internet Connection</string>
+</resources>
